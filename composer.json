@@ -1,0 +1,14 @@
+{
+    "name": "bek96/admin",
+    "description": "Laravelda tuzilgan web saytlar uchun admin bo'limi. Admin LTE 2.4 versiya ishlatilgan. Doim yangiliklar qo'shib boriladi.",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "azizbekeshonaliyev",
+            "email": "1996azizbekeshonaliyev@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
