@@ -33,7 +33,7 @@ class AdminServiceProvider extends ServiceProvider
 
             // Publishing the views.
             /*$this->publishes([
-                __DIR__.'/../resources/views' => resource_path('views/vendor/pay-uz'),
+                __DIR__.'/../resources/views' => resource_path('views/vendor/bek96'),
             ], 'views');*/
 
             // Publishing assets.
@@ -43,7 +43,7 @@ class AdminServiceProvider extends ServiceProvider
 
             // Publishing the translation files.
             /*$this->publishes([
-                __DIR__.'/../resources/lang' => resource_path('lang/vendor/pay-uz'),
+                __DIR__.'/../resources/lang' => resource_path('lang/vendor/bek96'),
             ], 'lang');*/
 
             // Registering package commands.
