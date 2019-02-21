@@ -2,6 +2,6 @@
 
 
 return [
-	     'pay_assets_path'   => '/vendor/bek96/admin/',
+	     'bek96_admin_assets_path'   => '/vendor/bek96/admin/',
 ];
 ?>
